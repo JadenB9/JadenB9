@@ -1,7 +1,11 @@
-# Hey, I'm Jaden
+# Jaden Butler
 
-CS & Cybersecurity student at Cedarville University. I like building tools I
-actually use every day, then polishing them well past the point of reason.
+Computer Science & Cybersecurity student at Cedarville University. 
+
+I just build tools that I actually use every day in my own terminal to make 
+things easier. Sometimes this extends to building random web apps when I cant 
+find anything specific online. There are a lot of projects in here at various 
+stages of completion as well as a few dozen in their earlier less secure stages. 
 
 **Bigger projects:**
 
@@ -9,10 +13,9 @@ actually use every day, then polishing them well past the point of reason.
   planning platform: checklists, guest list + RSVP, budget, website builder
 - [scripturestack](https://github.com/JadenB9/scripturestack) — Bible study
   site with semantic search, an interactive atlas, and timelines
-  ([live](https://scripturestack.j4den.com))
 - [LangIDE](https://github.com/JadenB9/LangIDE) — macOS IDE for a
   programming language that reads like English and compiles to C, Python,
-  or JavaScript ([try it](https://j4den.com/langide))
+  or JavaScript
 
 **Daily drivers:**
 
@@ -23,6 +26,5 @@ actually use every day, then polishing them well past the point of reason.
 - [projectmaker](https://github.com/JadenB9/projectmaker) — TUI scaffolder
   for new projects
 
-On the security side I compete in the National Cyber League.
 
 Everything else is at [j4den.com](https://j4den.com).
