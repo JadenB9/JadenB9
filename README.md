@@ -10,6 +10,9 @@ actually use every day, then polishing them well past the point of reason.
 - [scripturestack](https://github.com/JadenB9/scripturestack) — Bible study
   site with semantic search, an interactive atlas, and timelines
   ([live](https://scripturestack.j4den.com))
+- [LangIDE](https://github.com/JadenB9/LangIDE) — macOS IDE for a
+  programming language that reads like English and compiles to C, Python,
+  or JavaScript ([try it](https://j4den.com/langide))
 
 **Daily drivers:**
 
