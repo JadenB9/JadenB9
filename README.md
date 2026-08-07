@@ -13,9 +13,6 @@ stages of completion as well as a few dozen in their earlier less secure stages.
   planning platform: checklists, guest list + RSVP, budget, website builder
 - [scripturestack](https://github.com/JadenB9/scripturestack) — Bible study
   site with semantic search, an interactive atlas, and timelines
-- [LangIDE](https://github.com/JadenB9/LangIDE) — macOS IDE for a
-  programming language that reads like English and compiles to C, Python,
-  or JavaScript
 
 **Daily drivers:**
 
