@@ -10,9 +10,9 @@ stages of completion as well as a few dozen in their earlier less secure stages.
 **Bigger projects:**
 
 - [planfortwo](https://github.com/JadenB9/planfortwo) — (Private) Full-stack wedding
-  planning platform: checklists, guest list + RSVP, budget, website builder
+  planning platform: checklists, guest list + RSVP, budget, website builder, etc.
 - [j4den](https://github.com/JadenB9/j4den) — (Private) Main website, showcasing all of 
-public projects as well as serving the private ones. 
+my public projects as well as serving the private ones. 
 
 **Daily drivers:**
 
