@@ -24,4 +24,4 @@ my public projects as well as serving the private ones.
   for new projects
 
 
-Everything else is at [j4den.com](https://j4den.com).
+Everything is served at [j4den.com](https://j4den.com).
