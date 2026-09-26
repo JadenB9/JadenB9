@@ -9,6 +9,9 @@ stages of completion as well as a few dozen in their earlier less secure stages.
 
 **Bigger projects:**
 
+- [casino-simulator](https://github.com/JadenB9/casino-simulator) — 3D multiplayer
+  casino you walk around with other people: real-odds table games, slots, poker,
+  and a server that holds the money. Playable at [j4den.com/casino](https://j4den.com/casino/).
 - [planfortwo](https://github.com/JadenB9/planfortwo) — (Private) Full-stack wedding
   planning platform: checklists, guest list + RSVP, budget, website builder, etc.
 - [j4den](https://github.com/JadenB9/j4den) — (Private) Main website, showcasing all of 
